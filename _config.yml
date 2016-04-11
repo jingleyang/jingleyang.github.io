@@ -1,8 +1,7 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: Solo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
-
+title: Jingyu Yang, A programmer 
+tag_text: Jingyu Yang, Jingleyang, programming
+description: This is a blog of jingleyang. All contents are about programming, Linux and security. 
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
