@@ -5,6 +5,8 @@ Jingyu Yang received BSc in Computer Science from Beijing Normal University, Bei
 
 Interested in Linux programming, operating systems, software security, digital forensics and penetration testing.
 
+I am now working on improving the performance, reliability and security of Linux software, such as Redis, Nginx, and Sandbox of Chromium. Any comments and ideas are highly welcome.
+
 [Blog](http://jingleyang.github.io/)
 
 [Linkedin](https://www.linkedin.com/in/jingyu-yang-81413abb)
