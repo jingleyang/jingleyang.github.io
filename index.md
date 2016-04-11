@@ -12,7 +12,9 @@ Interested in Linux programming, operating systems, software security, digital f
 ### License
 
 [MIT License](http://chibicode.mit-license.org/)
+
 [Template](https://github.com/chibicode/solo/)
+
 <!---
 The following link is for the icon of github.com 
 -->
