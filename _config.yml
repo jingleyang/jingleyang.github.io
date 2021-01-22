@@ -8,4 +8,4 @@ exclude: ["README.md"]
 sass:
   style: compressed
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
